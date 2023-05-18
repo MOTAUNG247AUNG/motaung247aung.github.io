@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "rock_paper_scissors"
 date: 2022
-published: true
+published: false
 labels:
   - Lisp
   - GitHub

@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Motaung Mandla",
+    "label": "Student",
+    "picture": "https://github.com/motaung247aung.png",
+    "email": "maxphin21@gmail.com",
+    "phone": "+266 6397 3129",
+    "website": "https://motaung247aung.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Mathematics and Computer Sciences at the National University of Lesohto. I expect to graduate in 2027.",
+    "location": { "address": "", "postalCode": "P.O box 500", "city": "Maseru", "countryCode": "LS", "region": "Roma" },
+    "profiles": [
+      { "network": "github", "username": "motaung247aung", "url": "http://github.com/motaung247aung" }
+  
+     
+    ]
+  },
+  "interests": [
+    { "name": "Data Analysis" },
+    { "name": "Data Mining" },
+    { "name": "Neural Networks" },
+    { "name": "Software Development" },
+    { "name": "Computer Vision" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "C++", "Perl", "R", "Ruby" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National University of Lesotho, Roma, Lesotho",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.S.",
+      "startDate": "2022-09-05",
+      "endDate": "Present",
+      "courses": ["Mathematics", "Computer Science"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Machine learning and introduction to artificial intelligence under the guidance of Mr [Moseli Motseohli](https://deepsmoseli.github.io",
+        "Drive, design and build student-community projects for at the NUL"
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Candidate in Mathematics (Matric)",
+      "date": "2020",
+      "awarder": "DBE, South Africa",
+      "summary": ""
+    },
+    {
+      "title": "First place in general academic performance",
+      "date": "2020",
+      "awarder": "Gauteng West District",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

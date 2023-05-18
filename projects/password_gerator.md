@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/password_gerator/download.jpeg
 title: "Password Generator"
-date: 2015
+date: 2022
 published: true
 labels:
   - Robotics
@@ -13,12 +13,12 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/password_gerator/download.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/password_gerator/download.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/password_gerator/download.jpeg" class="img-thumbnail" >
 </div>
 
-Password generator is a program that helps clients to come up with strong passwords as per the requirements of most websites. Thwe passwords generated are different everytime and are longer than eight characters in length  and contain upper case letters, lower case letters, digits and special charactors all generated randomly and occupying random positions within the string they appear in.
+Password generator is a program that helps clients to come up with strong passwords as per the requirements of most websites. The passwords generated are different everytime and are longer than eight characters in length  and contain upper case letters, lower case letters, digits and special charactors all generated randomly and occupying random positions within the string they appear in.
 
 ```cpp
 byte ADCRead(byte ch)
